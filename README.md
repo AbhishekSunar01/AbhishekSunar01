@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate web developer from Pokhara, Nepal</h3>
+<h3 align="center">A Software Engineer from Pokhara, Nepal</h3>
 
 - 🔭 I’m currently working on [Krofile](https://krofile.vercel.app/)
 
