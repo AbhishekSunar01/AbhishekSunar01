@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A Software Engineer from Pokhara, Nepal</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 💬 Ask me about **react, next.js, springboot**
 
 - 📫 How to reach me **a8hishek01@gmail.com**
 
-- ⚡ Fun fact **I love playing guitar.**
+- ⚡ Fun fact **I love prog rock/metal music.**
 
 
 # 💻 Tech Stack:
